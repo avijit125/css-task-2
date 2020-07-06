@@ -1,0 +1,90 @@
+*{
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.head{
+		background-color: black;
+		height: 50px;
+
+	}
+
+	.head h2{
+		color: white;
+		padding: 10px;
+	}
+
+	#firstpart{
+		width: 1500px;
+		margin: auto;
+	}
+
+	#firstpart h1{
+		margin-top: 13px;
+
+	}
+
+	.point{
+		border: 2px black solid;
+		width: 20%;
+		float: left;
+		margin-top: 40px;
+		margin-left: 10px;
+		text-align: center;
+		padding: 30px;
+	}
+
+	.point h1{
+		color: green;
+		text-align: center;
+
+	}
+
+	.point p{
+		padding-top: 12px;
+	}
+
+	.clear{
+		clear: both;
+	}
+
+	.secoundpart{
+		padding-top: 58px;
+	}
+
+	.secoundpart h2{
+		color: green;
+		float: left;
+		padding-left: 20px;
+		margin-bottom: 30px;
+
+	}
+
+	.tableforeva{
+		width: 100%;
+	}
+
+	.taskcolor{
+		color: green;
+	}
+
+	#thirdpart{
+		width: 1500px;
+		margin: auto;
+		overflow-y: scroll;
+	}
+
+	.scoimg{
+		border: 2px black solid;
+		width: 30%;
+		float: left;
+		margin-top: 40px;
+		margin-left: 10px;
+		text-align: center;
+		padding: 30px;
+	}
+
+	#scoring{
+		width: 100%
+
+	}
